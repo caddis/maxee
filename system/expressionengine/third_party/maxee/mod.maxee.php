@@ -20,9 +20,4 @@ class Maxee {
 		$this->site_id = ee()->config->item('site_id');
 		$this->settings = ee()->maxee_settings->get_settings($this->site_id);
 	}
-
-	function purge()
-	{
-		
-	}
 }

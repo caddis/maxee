@@ -1,11 +1,11 @@
-<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+<?php if (! defined('BASEPATH')) exit('No direct script access allowed');
 
 /**
  * Maxee Settings Model
  *
- * @package	Gunneer
- * @author	Caddis
- * @link	http://www.caddis.co
+ * @package Maxee
+ * @author  Caddis
+ * @link    http://www.caddis.co
  */
 
 class Maxee_settings_model extends CI_Model {

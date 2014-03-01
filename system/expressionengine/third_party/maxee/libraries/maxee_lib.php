@@ -1,11 +1,11 @@
-<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+<?php if (! defined('BASEPATH')) exit('No direct script access allowed');
 
 /**
  * Maxee Library
  *
- * @package	Maxee
- * @author	Caddis
- * @link	http://www.caddis.co
+ * @package Maxee
+ * @author  Caddis
+ * @link    http://www.caddis.co
  */
 
 require_once PATH_THIRD . 'maxee/vendor/autoload.php';

@@ -1,4 +1,4 @@
-# Maxee 0.1.0
+# Maxee 1.0.0
 
 View stats and purge MaxCDN files from your control panel.
 

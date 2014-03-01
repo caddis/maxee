@@ -38,7 +38,7 @@ class Maxee_mcp {
 
 	public function index()
 	{
-		ee()->cp->set_variable('cp_page_title', 'Stats');
+		ee()->view->cp_page_title = 'Stats';
 
 		$this->view_data = array();
 
@@ -81,7 +81,7 @@ class Maxee_mcp {
 
 	public function cache()
 	{
-		ee()->cp->set_variable('cp_page_title', 'Manage Cache');
+		ee()->view->cp_page_title = 'Manage Cache';
 
 		$this->view_data = array();
 
@@ -125,7 +125,7 @@ class Maxee_mcp {
 
 	public function settings()
 	{
-		ee()->cp->set_variable('cp_page_title', 'Settings');
+		ee()->view->cp_page_title = 'Settings';
 
 		$site_id = ee()->config->item('site_id');
 

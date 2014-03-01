@@ -2,7 +2,7 @@
 	"schema_version": "1.0",
 	"name" : "maxee",
 	"label": "Maxee",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"types": ["module"],
 	"paths": {
 		"system": [

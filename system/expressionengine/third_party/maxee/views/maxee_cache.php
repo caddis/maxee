@@ -43,6 +43,6 @@
 
 <?php } else { ?>
 
-<p>You have missing or inavlid API credentials.</p>
+<p>Missing or invalid API credentials.</p>
 
 <?php } ?>
